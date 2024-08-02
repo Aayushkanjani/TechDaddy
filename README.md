@@ -2,7 +2,7 @@
 # TechDaddy: RAG ChatBot for college assistance based on Mixtral-8x7b an Open-source LLM
 
 ## Project Overview
-TechDaddy is an AI chatbot built using a Retrieval-Augmented Generation (RAG) pipeline to assist college students by providing accurate and contextually relevant answers to their queries. Leveraging LangChain, HuggingFace, and open-source LLMs like Meta-Llama 3.1 and Mistral-7B, TechDaddy is trained on all available data of the college to address various student needs.
+TechDaddy is an AI chatbot built using a Retrieval-Augmented Generation (RAG) pipeline to assist college students by providing accurate and contextually relevant answers to their queries. Leveraging LangChain, HuggingFace, and open-source LLM and sentence-transformer embedding model like Mixtral-8x7b and all-minilm respectively. TechDaddy is trained on all available data of the college to address various student needs.
 
 ## Project Goals and Objectives
 - Answer common questions that freshmen might have.
