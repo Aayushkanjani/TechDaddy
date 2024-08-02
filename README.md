@@ -1,4 +1,4 @@
-# TechDaddy
+
 # TechDaddy: RAG ChatBot for college assistance based on Mixtral-8x7b an Open-source LLM
 
 ## Project Overview
