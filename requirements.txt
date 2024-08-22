@@ -8,7 +8,7 @@ brotlipy==0.7.0
 bs4==0.0.2
 cachetools==5.4.0
 cloudpickle==1.2.2
-clyent==1.2.2
+clyent==1.2.1
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
 constantly==15.1.0
