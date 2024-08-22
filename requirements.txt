@@ -1,4 +1,3 @@
-aiobotocore @ file:///C:/b/abs_1c1a_vjay2/croot/aiobotocore_1682537737724/work
 aiofiles @ file:///C:/b/abs_9ex6mi6b56/croot/aiofiles_1683773603390/work
 aiohttp @ file:///C:/b/abs_b78zt6vo64/croot/aiohttp_1694181126607/work
 aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
