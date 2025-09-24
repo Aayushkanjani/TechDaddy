@@ -70,5 +70,3 @@ The primary users of TechDaddy are college students, especially freshmen. Facult
     streamlit run app.py
     ```
 
-## Contact Information
-- **Aayush Kanjani**: aayushkanjani6@gmail.com
